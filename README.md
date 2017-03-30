@@ -55,6 +55,11 @@ Algorithms
 Languages
 ----------------------------------
 
+C
+----------------------------------
+
+* The C Programming Language (2nd Edition) Paperback – 22 Mar 1988 by Brian W. Kernighan
+
 C#
 ----------------------------------
 
@@ -64,3 +69,9 @@ Javascript
 ----------------------------------
 
 * JavaScript: The Good Parts Paperback – 18 May 2008 by Douglas Crockford
+
+Python
+----------------------------------
+
+* Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
+* Python Programming for the Absolute Beginner, Third Edition1 Jan 2010 by Mike Dawson
