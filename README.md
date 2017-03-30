@@ -5,7 +5,6 @@ People/Management
 
 * Peopleware: Productive Projects and Teams (Second Edition)
 * The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering
-
 * Agile Software Development with Scrum (Series in Agile Software Development) 1st Edition
 * Scrum: The Art of Doing Twice the Work in Half the Time
 * Scrum: a Breathtakingly Brief and Agile Introduction
