@@ -74,5 +74,5 @@ Javascript
 Python
 ----------------------------------
 
-* Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
 * Python Programming for the Absolute Beginner, Third Edition1 Jan 2010 by Mike Dawson
+* Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
