@@ -28,6 +28,7 @@ Design Patterns
 ----------------------------------
 
 * GOF Design Patterns - Design Patterns: Elements of Reusable Object-Oriented Software
+* Learning JavaScript Design Patterns A book by Addy Osmani Volume 1.6.2
 * M.Fowler et al - Refactoring - Improving the Design of Existing Code
 * Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) 
 * R.Martin - Agile Principles Patterns and Practices in C#
