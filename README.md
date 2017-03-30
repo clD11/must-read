@@ -43,6 +43,7 @@ Testing
 ----------------------------------
 
 * Growing Object-Oriented Software, Guided by Tests - K.Beck
+* Practical Unit Testing with JUnit and Mockito Paperback – 23 Apr 2013 Tomek Kaczanowski
 
 Algorithms
 ----------------------------------
