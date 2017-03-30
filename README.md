@@ -33,17 +33,16 @@ Design Patterns
 * R.Martin - Agile-Principles-Patterns-and-Practices-in-C#
 * Adaptive Code via C#: Agile coding with design patterns and SOLID principles
 
-Architecture
+Architecture/Design
 ----------------------------------
 
 * Software Architecture: Foundations, Theory, and Practice - Richard N. Taylor, Nenad Medvidović, and Eric M. Dashofy, John Wiley and Sons, 2009.
-* Software Architecture for Developers - Simon Brown, LeanPub, 2012.
+* Domain-driven Design: Tackling Complexity in the Heart of Software Hardcover – 20 Aug 2003 by Eric Evans
 
 Testing
 ----------------------------------
 
 * Growing Object-Oriented Software, Guided by Tests - K.Beck
-* Domain-driven Design: Tackling Complexity in the Heart of Software Hardcover – 20 Aug 2003 by Eric Evans
 
 Algorithms
 ----------------------------------
