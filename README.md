@@ -44,6 +44,7 @@ Testing
 
 * Growing Object-Oriented Software, Guided by Tests - K.Beck
 * Practical Unit Testing with JUnit and Mockito Paperback – 23 Apr 2013 Tomek Kaczanowski
+* The Art of Software Testing Hardcover – 16 Dec 2011 by Glenford J. Myers 
 
 Algorithms
 ----------------------------------
