@@ -21,6 +21,7 @@ Clean Code
 
 * Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)
 * The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)
+
 * Code Complete: A Practical Handbook of Software Construction Paperback – Unabridged, 19 Jun 2004
 * The Pragmatic Programmer Paperback – 20 Oct 1999
 
@@ -64,6 +65,11 @@ C#
 ----------------------------------
 
 * C# 5.0 in a Nutshell: The Definitive Reference Paperback – 29 Jun 2012 by Joseph Albahari  (Author), Ben Albahari (Author)
+
+Go
+----------------------------------
+
+* The Go Programming Language (Addison-Wesley Professional Computing Series) Paperback – 5 Nov 2015 by Alan A. A. Donovan (Author), Brian W. Kernighan (Contributor)
 
 Javascript
 ----------------------------------
