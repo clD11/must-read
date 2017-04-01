@@ -1,4 +1,4 @@
-# Must Read Development Books
+ Must Read Development Books
 
 People/Management
 ----------------------------------
@@ -21,7 +21,6 @@ Clean Code
 
 * Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)
 * The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)
-
 * Code Complete: A Practical Handbook of Software Construction Paperback – Unabridged, 19 Jun 2004
 * The Pragmatic Programmer Paperback – 20 Oct 1999
 
