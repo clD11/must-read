@@ -53,7 +53,7 @@ Algorithms
 * Introduction to Algorithms Paperback – 20 Aug 2009 by T Cormen (Author), C Leiserson (Author), R Rivest (Author), C Stein (Author)
 * Mathematics for Computer Science - Eric Lehman and Tom Leighton 2004
 
-<br /> Languages
+<br /> Languages Specific
 ----------------------------------
 
 C
