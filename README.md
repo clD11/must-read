@@ -33,6 +33,7 @@ Design Patterns
 * R.Martin - Agile Principles Patterns and Practices in C#
 * Adaptive Code via C#: Agile coding with design patterns and SOLID principles
 
+
 Architecture/Design
 ----------------------------------
 
@@ -69,6 +70,11 @@ Go
 ----------------------------------
 
 * The Go Programming Language (Addison-Wesley Professional Computing Series) Paperback – 5 Nov 2015 by Alan A. A. Donovan (Author), Brian W. Kernighan (Contributor)
+
+Java
+----------------------------------
+
+* Effective Java (2nd Edition) 2nd Edition by Joshua Bloch
 
 Javascript
 ----------------------------------
