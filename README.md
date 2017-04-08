@@ -7,7 +7,7 @@ People/Management
 * The Mythical Man-Month, Anniversary Edition: Essays On Software Engineering
 * Agile Software Development with Scrum (Series in Agile Software Development) 1st Edition
 * Scrum: The Art of Doing Twice the Work in Half the Time
-* Scrum: a Breathtakingly Brief and Agile Introduction
+* Scrum: A Breathtakingly Brief and Agile Introduction
 
 UX
 ----------------------------------
