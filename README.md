@@ -24,6 +24,7 @@ Clean Code
 * Code Complete: A Practical Handbook of Software Construction Paperback – Unabridged, 19 Jun 2004
 * The Pragmatic Programmer Paperback – 20 Oct 1999
 
+
 Design Patterns
 ----------------------------------
 
@@ -87,3 +88,7 @@ Python
 
 * Python Programming for the Absolute Beginner, Third Edition1 Jan 2010 by Mike Dawson
 * Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
+
+Online Sources
+----------------------------------
+* Software testing nirvana http://tech.bookatable.com/?m=201501
