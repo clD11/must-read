@@ -54,7 +54,7 @@ Algorithms
 * Introduction to Algorithms Paperback – 20 Aug 2009 by T Cormen (Author), C Leiserson (Author), R Rivest (Author), C Stein (Author)
 * Mathematics for Computer Science - Eric Lehman and Tom Leighton 2004
 
-Online Sources
+<br /> Online Sources
 ----------------------------------
 * Software testing nirvana http://tech.bookatable.com/?m=201501
 * Isomorphic Apps https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc
