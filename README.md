@@ -54,12 +54,6 @@ Algorithms
 * Introduction to Algorithms Paperback – 20 Aug 2009 by T Cormen (Author), C Leiserson (Author), R Rivest (Author), C Stein (Author)
 * Mathematics for Computer Science - Eric Lehman and Tom Leighton 2004
 
-<br /> Online Sources
-----------------------------------
-* Software testing nirvana http://tech.bookatable.com/?m=201501
-* Isomorphic Apps https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc
-* The implementation of functional programming languages https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
-
 <br /> Languages Specific
 ----------------------------------
 
@@ -94,3 +88,9 @@ Python
 
 * Python Programming for the Absolute Beginner, Third Edition1 Jan 2010 by Mike Dawson
 * Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
+
+<br /> Online Sources
+----------------------------------
+* Software testing nirvana http://tech.bookatable.com/?m=201501
+* Isomorphic Apps https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc
+* The implementation of functional programming languages https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
