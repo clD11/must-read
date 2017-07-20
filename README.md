@@ -30,7 +30,8 @@ Design Patterns
 
 * GOF Design Patterns - Design Patterns: Elements of Reusable Object-Oriented Software
 * M.Fowler et al - Refactoring - Improving the Design of Existing Code
-* Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) 
+* Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler))
+* Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions (Martin Fowler Signature Book)
 * R.Martin - Agile Principles Patterns and Practices in C#
 * Adaptive Code via C#: Agile coding with design patterns and SOLID principles
 
