@@ -95,3 +95,4 @@ Python
 * Software testing nirvana http://tech.bookatable.com/?m=201501
 * Isomorphic Apps https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc
 * The implementation of functional programming languages https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
+* Soak Testing https://generalabstractnonsense.com/2017/05/Lets-write-a-soak-tester/
