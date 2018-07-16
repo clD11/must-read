@@ -49,6 +49,11 @@ Testing
 * Practical Unit Testing with JUnit and Mockito Paperback – 23 Apr 2013 Tomek Kaczanowski
 * The Art of Software Testing Hardcover – 16 Dec 2011 by Glenford J. Myers 
 
+Concurrency
+----------------------------------
+
+* Java Concurrency in Practice - by Brian Goetz
+
 Algorithms
 ----------------------------------
 
@@ -77,6 +82,7 @@ Java
 ----------------------------------
 
 * Effective Java (2nd Edition) 2nd Edition by Joshua Bloch
+* Java Performance: The Definitive by Scott Oaks
 
 Javascript
 ----------------------------------
