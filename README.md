@@ -82,7 +82,7 @@ Java
 ----------------------------------
 
 * Effective Java (2nd Edition) 2nd Edition by Joshua Bloch
-* Java Performance: The Definitive by Scott Oaks
+* Java Performance: The Definitive Guide by Scott Oaks
 
 Javascript
 ----------------------------------
