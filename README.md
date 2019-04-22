@@ -41,6 +41,7 @@ Architecture/Design
 
 * Domain-driven Design: Tackling Complexity in the Heart of Software Hardcover – 20 Aug 2003 by Eric Evans
 * Software Architecture: Foundations, Theory, and Practice - Richard N. Taylor, Nenad Medvidović, and Eric M. Dashofy, John Wiley and Sons, 2009.
+* Building Microservices Paperback – 20 Feb 2015 by Sam Newman
 
 Testing
 ----------------------------------
