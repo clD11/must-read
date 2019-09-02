@@ -42,6 +42,10 @@ Architecture/Design
 * Domain-driven Design: Tackling Complexity in the Heart of Software Hardcover – 20 Aug 2003 by Eric Evans
 * Software Architecture: Foundations, Theory, and Practice - Richard N. Taylor, Nenad Medvidović, and Eric M. Dashofy, John Wiley and Sons, 2009.
 * Building Microservices Paperback – 20 Feb 2015 by Sam Newman
+* API Architecture: The Big Picture for Building APIs (API-University Series Book 2), Matthias Biehl
+* RESTful API Design: Best Practices in API Design with REST (API-University Series Book 3), Matthias Biehl
+* Webhooks: Events for RESTful APIs (API-University Series Book 4), Matthias Biehl
+
 
 Testing
 ----------------------------------
