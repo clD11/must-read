@@ -101,6 +101,11 @@ Python
 * Python Programming for the Absolute Beginner, Third Edition1 Jan 2010 by Mike Dawson
 * Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers Paperback – 8 Nov 2012
 
+Rust
+----------------------------------
+
+* Hands-On Microservices with Rust Denis Kolodin 2018
+
 <br /> Other Books
 ----------------------------------
 * Mazes for Programmers: Code Your Own Twisty Little Passages - 25 Jul 2015 by Jamis Buck
