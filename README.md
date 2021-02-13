@@ -2,7 +2,7 @@
 
  Below is a list of books I have taken the most from over the years, some of which I continue to reference to this day, a pretty impressive feat for any technical book!
 
-I constantly reassess things I have learnt over the years and this list is no different, I find this particularly relevant for the people/management section, as my experience in this area has evolved along with the [DevOps culture](https://martinfowler.com/bliki/DevOpsCulture.html) and [Full Cycle](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249) mindset coupled with an ever-increasing desire to deliver features and changes into users at break neck speeds certain processes have simply become outdated or impractical in today's culture 🚀🚀🚢😲  
+I constantly reassess things I have learnt over the years and this list is no different, I find this particularly relevant for the people/management section, as my experience in this area has evolved along with the [DevOps culture](https://martinfowler.com/bliki/DevOpsCulture.html) and [Full Cycle](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249) mindset coupled with an ever-increasing desire to deliver features and changes to end users at break neck speeds certain processes have simply become outdated or impractical in today's culture 🚀🚀🚢😲  
 
 The below collection of resources gives a good flavour of where I draw inspiration from as a developer, leader and team member.
 
