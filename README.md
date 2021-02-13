@@ -119,7 +119,6 @@ Rust
 * Bitcoin and Cryptocurrency Technologies by Princeton University
 * Competitive Programmer's Core Skills by Saint Petersburg State University
 * Algorithms: Design and Analysis, Part 1 by Stanford University
-* Algorithms: Design and Analysis, Part 1 by Stanford University
 * Machine Learning by Stanford University
 * [The implementation of functional programming languages](https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/)
 
