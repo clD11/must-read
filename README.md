@@ -107,6 +107,7 @@ Rust
 
 <br /> Other Books
 ----------------------------------
+
 * Mazes for Programmers: Code Your Own Twisty Little Passages - 25 Jul 2015 by Jamis Buck
 * Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions (Cracking the Interview & Career) Paperback – Illustrated, 1 July 2015 by Gayle Laakmann McDowell
 
@@ -124,4 +125,6 @@ Rust
 
 <br /> In-Flight
 ----------------------------------
+
+* The Culture Code: The Secrets of Highly Successful Groups Paperback – 21 Feb. 2019 by Daniel Coyle
 * The Blockchain and the New Architecture of Trust (Information Policy) Hardcover – Illustrated, 30 Nov. 2018 by Kevin Werbach
