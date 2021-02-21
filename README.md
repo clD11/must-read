@@ -127,5 +127,4 @@ Rust
 <br /> In-Flight
 ----------------------------------
 
-* The Culture Code: The Secrets of Highly Successful Groups Paperback – 21 Feb. 2019 by Daniel Coyle
 * The Blockchain and the New Architecture of Trust (Information Policy) Hardcover – Illustrated, 30 Nov. 2018 by Kevin Werbach
