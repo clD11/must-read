@@ -9,6 +9,7 @@ The below collection of resources gives a good flavour of where I draw inspirati
 People/Management
 ----------------------------------
 
+* The Culture Code: The Secrets of Highly Successful Groups Paperback – 21 Feb. 2019 by Daniel Coyle
 * The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries 
 * Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results by Mike Rother
 * Peopleware: Productive Projects and Teams Paperback by Tom DeMarco
